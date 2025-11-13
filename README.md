@@ -47,7 +47,6 @@ A colorimetria é fundamental em diagnósticos médicos pois:
 ### 1. Clone o repositório
 ```bash
 git clone <url-do-repositorio>
-cd "Projeto AlgProcImg"
 ```
 
 ### 2. Instale as dependências
@@ -99,7 +98,7 @@ python Segmentacao_Cor/teste_automatico.py
 ## 📁 Estrutura do Projeto
 
 ```
-Projeto AlgProcImg/
+Projetos/
 ├── Segmentacao_Cor/
 │   ├── imagens/                    # Imagens de exames
 │   │   ├── amostra_eritrocitos.jpg
@@ -248,11 +247,6 @@ Para instruções detalhadas sobre como testar o sistema, incluindo:
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## 👨💻 Autor
-
-**Desenvolvedor**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
 
 ## 🙏 Agradecimentos
 
